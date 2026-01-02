@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "GoedJam2025.sln"
+    "dotnet.defaultSolution": "GoedJam2025_new.sln"
 }
